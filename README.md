@@ -1,3 +1,10 @@
+# ReactNative-UI
+An experimental project to create UI components for React Native using Expo Go, as the foundation of a design system.
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
